@@ -2346,6 +2346,7 @@ input, select, textarea {
 		cursor: default;
 		list-style: none;
 		padding-left: 0;
+		padding-top: 32px;
 	}
 
 		ul.icons li {
